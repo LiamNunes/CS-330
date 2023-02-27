@@ -1,0 +1,24 @@
+﻿  Source.cpp
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(342,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(491,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(492,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(496,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(497,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(499,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(500,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(510,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(1124,21): warning C4244: 'initializing': conversion from 'float' to 'GLuint', possible loss of data
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(1125,23): warning C4244: 'initializing': conversion from 'float' to 'GLuint', possible loss of data
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(1132,63): warning C4838: conversion from 'GLuint' to 'GLfloat' requires a narrowing conversion
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(1132,63): warning C4244: 'initializing': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(1133,53): warning C4838: conversion from 'GLuint' to 'GLfloat' requires a narrowing conversion
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(1133,53): warning C4244: 'initializing': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(1133,63): warning C4838: conversion from 'GLuint' to 'GLfloat' requires a narrowing conversion
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(1133,63): warning C4244: 'initializing': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(1134,53): warning C4838: conversion from 'GLuint' to 'GLfloat' requires a narrowing conversion
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(1134,53): warning C4244: 'initializing': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(1134,63): warning C4838: conversion from 'GLuint' to 'GLfloat' requires a narrowing conversion
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(1134,63): warning C4244: 'initializing': conversion from 'GLuint' to 'GLfloat', possible loss of data
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(1135,53): warning C4838: conversion from 'GLuint' to 'GLfloat' requires a narrowing conversion
+C:\SNHU\term 11\CS 330\Final\Final Project\Final Project\Source.cpp(1135,53): warning C4244: 'initializing': conversion from 'GLuint' to 'GLfloat', possible loss of data
+  Final Project.vcxproj -> C:\SNHU\term 11\CS 330\Final\Final Project\Debug\Final Project.exe
